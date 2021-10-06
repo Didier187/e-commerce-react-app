@@ -24,6 +24,8 @@ Photos E-commerce app built using Reactjs library
 - React
 - HTML5
 - CSS3
+- remixicon
+- google-fonts
 
 
 
