@@ -1,6 +1,7 @@
 # PicSome shopping app
 
 Photos E-commerce app built using Reactjs library
+# [Live demo](https://picsum.netlify.app/)
 ## Home page
 ![Picsome home](https://user-images.githubusercontent.com/18181964/136170650-edee661a-352e-4e0d-a4b9-07ac8ae2f337.PNG)
 
